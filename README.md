@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alex Mesmer
 - 👀 I’m interested in web development, cars, college sports (football and basketball), and hockey
 - 📫 I can be reached at my email: amesmer32@gmail.com
-- 🧑🏻‍💻 My [LinkedIn](https://www.linkedin.com/in/alex-mesmer-40a93b198/)
-- 🏠 And you can also visit my [personal site](https://www.alexmesmer.dev)
+- 🧑🏻‍💻 My [LinkedIn profile](https://www.linkedin.com/in/alex-mesmer-40a93b198/)
+- 🏠 And you can also visit my personal site [HERE!](https://www.alexmesmer.dev)
 
 
 <!---
